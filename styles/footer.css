@@ -1,0 +1,16 @@
+.footer-container {
+    display: block;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(200, 200, 200)
+}
+
+.footer-content {
+    display: flex;
+    padding: 2rem 0 2rem 0;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    font-size: smaller;
+}
