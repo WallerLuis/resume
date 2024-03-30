@@ -1,0 +1,15 @@
+.avatar {
+    border-radius: 20px;
+    vertical-align: middle;
+    aspect-ratio: auto 400 / 400;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+.avatar-container {
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+}
