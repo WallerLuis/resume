@@ -1,0 +1,30 @@
+body {
+    background-color: gainsboro;
+    font-family: Arial;
+    margin: 0%;
+    padding: 0%;
+    font-family: Roboto;
+
+}
+
+
+h1 {
+    color: white;
+    background-color: blueviolet;
+    display: block;
+    padding: 1rem;
+    margin: 0%;
+    text-shadow: 2px 2px 3px rgba(6, 24, 36, 0.34);
+
+}
+
+h2 {
+    color: darkorchid;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    margin: 0;
+    border-top: 10px solid darkorchid;
+}
